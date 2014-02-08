@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Text app</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dis">display</string>
+    <string name="txt">Your Text Here</string>
+    <string name="type">Type Here</string>
+    <string name="text"></string>
+    <string name="change">Change Text</string>
+    <string name="typed">Typed Text</string>
+    <string name="disp">text display</string>
+
+</resources>
